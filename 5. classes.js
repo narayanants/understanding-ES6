@@ -28,23 +28,6 @@ class Police{
         this.weight = weight;
     }
 
-
-    displayheight(){
-        console.olog()
-    }
-}
-
-
-
-
-
-class Police{
-    constructor(name,age,weight){
-        this.name = name;
-        this.age = age;
-        this.weight = weight;
-    }
-
     displayheight(){
         console.log(this.weight);
     }
